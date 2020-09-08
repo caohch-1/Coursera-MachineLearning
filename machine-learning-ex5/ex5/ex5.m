@@ -31,6 +31,7 @@ fprintf('Loading and Visualizing Data ...\n')
 % You will have X, y, Xval, yval, Xtest, ytest in your environment
 load ('ex5data1.mat');
 
+
 % m = Number of examples
 m = size(X, 1);
 
